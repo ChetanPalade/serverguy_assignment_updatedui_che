@@ -1,4 +1,6 @@
-![Screenshot (17)](https://github.com/user-attachments/assets/a8a84bc3-009c-4b29-9800-9a86b1067e70)# Algolia Hacker News Search Clone
+![Screenshot (17)](https://github.com/user-attachments/assets/a8a84bc3-009c-4b29-9800-9a86b1067e70)
+
+# Algolia Hacker News Search Clone
 This project is a React-based clone of the Algolia Hacker News search interface. It allows users to search for stories, comments, or polls from Hacker News, filter results by popularity or date, and narrow down searches based on time ranges. Users can navigate through paginated results and view individual story details.
 
 # Features
